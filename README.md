@@ -1,9 +1,9 @@
-myApp
+# myApp
 
-this is my app
+## this is my app
 
-<<<<<<< HEAD
-this is a new commit on Hub, to rebase locally
-=======
-this is a local commit to create a conflict with Hub
->>>>>>> conflic
+### this is a heading 3
+
+* first item in list
+* second item in list
+* third item in list
