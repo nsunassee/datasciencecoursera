@@ -1,6 +1,6 @@
 # myApp
 
-## this is my app
+## this is my app in heading 2
 
 ### this is a heading 3
 
